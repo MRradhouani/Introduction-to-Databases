@@ -1,0 +1,4 @@
+RDBMS :A relational database management system (RDBMS) is a program that allows you to create,
+ update, and administer a relational database. Most relational database management systems use
+ the SQL language to access the database.
+
